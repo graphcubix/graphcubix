@@ -203,7 +203,7 @@ a:focus {
 
 .slider_section .detail-box h1 {
   font-size: 4rem;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .slider_section .detail-box h2 {
